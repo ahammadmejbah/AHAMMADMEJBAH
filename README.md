@@ -1,4 +1,4 @@
-<img src="https://github.com/learnwithmejbah/learnwithmejbah/blob/main/Blue%20and%20Orange%20Gradient%20Modern%20Tech%20Healthcare%20and%20Medical%20X-Frame%20Banner%20(82%20x%2016%20in).png" alt="Learn With Mejbah">
+<img src="https://github.com/AHAMMADMEJBAH/AHAMMADMEJBAH/blob/main/Banner.png" alt="Learn With Mejbah">
 
 <h1 align="center">Hi 👋, I'm Mejbah Ahammad</h1>
 <h3 align="center">Tableau Certified Data Scientist & Analyst || Founder, Learn With Mejbah || Kaggle Expert Talks about #datascience, #deeplearning, #dataanalytics, #machinelearning, and #machinelearningalgorithms</h3>
