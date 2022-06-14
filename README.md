@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **Data Science, Machine Learning & Deep Learning projects**
 
-- 👨‍💻 All of my projects are available at [https://ahammadmejbah.com](https://ahammadmejbah.com)
+- 👨‍💻 All of my projects are available at [https://bangla-ai.org/](https://ahammadmejbah.com)
 
-- 📝 I regularly write articles on [https://learnwithmejbah.com](https://learnwithmejbah.com)
+- 📝 I regularly write articles on [https://bangla-ai.org/](https://learnwithmejbah.com)
 
 - 💬 Ask me about **Data Science, Machine Learning & Deep Learning**
 
