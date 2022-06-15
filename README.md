@@ -1,4 +1,4 @@
-<img src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/Technology%20Specialist%20LinkedIn%20Banner.png" alt="Learn With Mejbah">
+<img src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/AIBG.png" alt="https://bangla-ai.org/">
 
 <h1 align="center">Hi 👋, I'm Mejbah Ahammad</h1>
 <h3 align="center">Tableau Certified Data Scientist & Analyst || Founder, Learn With Mejbah || Kaggle Expert Talks about #datascience, #deeplearning, #dataanalytics, #machinelearning, and #machinelearningalgorithms</h3>
